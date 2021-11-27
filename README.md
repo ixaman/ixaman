@@ -60,7 +60,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/asad-zaman-a1277b11b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/axaman96"><img src="<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
