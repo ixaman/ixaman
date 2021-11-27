@@ -45,7 +45,7 @@
 
   <br/>
     <a href="https://github.com/ixaman/github-readme-stats"><img alt="Asad Zaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ixaman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ixaman/github-readme-stats"><img src="https://img.icons8.com/color-glass/48/000000/twitter.png"/></a>
+  <a href="https://github.com/ixaman/github-readme-stats"></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/asad-zaman-a1277b11b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/axaman96"><img src="<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>"/></a>
+<a href = "https://twitter.com/axaman96"><img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
